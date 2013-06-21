@@ -1,0 +1,28 @@
+{
+  "name": "POC Demo App",
+  "author": {
+    "name": "Maxime Prades",
+    "email": "mprades@zendesk.com"
+  },
+    "parameters": [
+    {
+      "name": "app_name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "poc_logo",
+      "type": "url",
+	  "required": true
+    },
+    {
+      "name": "poc_url",
+      "type": "url",
+	  "required": true
+    }
+  ],
+  "defaultLocale": "en",
+  "private": true,
+  "location": "ticket_sidebar",
+  "frameworkVersion": "0.5"
+}

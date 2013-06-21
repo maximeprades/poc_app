@@ -1,0 +1,3 @@
+<div class="sidebar_container">
+	<img src="{{setting "poc_url"}}" height="522px" style="max-width: 317px">
+</div>

@@ -1,0 +1,5 @@
+<header>
+<h3>{{setting "app_name"}} <img src="{{setting "poc_logo"}}" height="29px" style="max-width: 31px" style=padding-left="143px"/></h3>
+</header>
+<section data-main/>
+
