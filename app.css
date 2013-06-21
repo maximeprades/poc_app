@@ -1,3 +1,9 @@
 .app_logo {
-	padding-left: 286px
+	max-width: 31px;
+	vertical-align: middle;
+	float: right;
+}
+
+h3 {
+	padding: 0px 5px 5px 0px;
 }
