@@ -1,4 +1,4 @@
-poc_app
+POC App
 =======
 
-To help sales create Apps POC and demo them
+An awesome little App to help Zendesk sales team demo Apps Proof Of Concepts (POCs) by displaying images in the Apps tray
