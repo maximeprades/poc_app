@@ -6,6 +6,6 @@
   "parameters": {
       "app_name" : { "label": "Name of the App", "helpText": "This will be the name displayed to your customers on the POC" },
       "logo_url" : { "label": "Enter your POC App logo URL", "helpText": "This will be displayed in the upper right corner of the App"},
-      "poc_url"    : { "label": "Enter your POC App URL", "helpText": "The asset dimensions must be 522px by 317px" }
+      "poc_url"  : { "label": "Enter your POC App URL", "helpText": "The ideal asset dimensions must be 522px by 317px" }
     }
 }
