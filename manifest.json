@@ -24,5 +24,6 @@
   "defaultLocale": "en",
   "private": true,
   "location": "ticket_sidebar",
-  "frameworkVersion": "0.5"
+  "frameworkVersion": "0.5",
+  "singleInstall": false
 }
