@@ -13,12 +13,12 @@
     {
       "name": "poc_logo",
       "type": "url",
-	  "required": true
+	    "required": true
     },
     {
       "name": "poc_url",
       "type": "url",
-	  "required": true
+	    "required": true
     }
   ],
   "defaultLocale": "en",
